@@ -134,7 +134,6 @@ def set_color_in_session(intent, session):
                         "what's my favorite color?"
             reprompt_text = "You can ask me your favorite color by saying, " \
                         "what's my favorite color?"
-            
     else:
         speech_output = "I'm not sure what your favorite color is. " \
                         "Please try again."
